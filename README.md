@@ -1,4 +1,4 @@
-Product preview card component
+Product preview card component: image-product-desktop.jpg
 
 
 
